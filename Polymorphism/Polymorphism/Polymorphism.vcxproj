@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="TestCharacter.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Character.h" />
